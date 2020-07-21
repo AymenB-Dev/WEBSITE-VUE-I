@@ -1,0 +1,47 @@
+{
+
+  "translate":
+  {
+    "language":"language",
+    "letsgo":"let's go",
+    "getstarted":"get started",
+    "unlock":"unlock",
+    "classical":"Or Be Classical",
+    "nav":
+    {
+      "register":"Register",
+      "login":"Log In",
+      "lock":"Lock "
+    },
+
+    "footer":
+    {
+      "about":"About Us",
+      "license":"License",
+      "blog":"blog",
+      "2019":"2019",
+      "copyright":"copyright",
+      "madeBy":"made by ab_dev"
+    },
+    "form":
+    {
+      "name":"name",
+      "password":"password",
+      "email":"email",
+      "agree":"I agree"
+      
+    },
+    "register":
+        {
+            "marketing":"Marketing",
+            "coded":"Fully Coded in HTML",
+            "builtaudiance":"Built Audience",
+            "termsandconditions":"terms and conditions",
+
+            "marketingDes":"We've created the marketing campaign of the website. It was a very interesting collaboration.",
+            "codedDes":"We've developed the website with HTML5 and CSS3. The client has access to the code using GitHub.",
+            "builtDes":"There is also a Fully Customizable CMS Admin Dashboard for this product."
+        }
+  }
+   
+}

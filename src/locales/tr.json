@@ -1,0 +1,49 @@
+{
+    "translate":
+    {
+        "language":"dil",
+        "letsgo":"hadi başlayin",
+        "getstarted":"başlayin",
+        "unlock":"Aç",
+        "classical":"Veya Klasik Olun",
+        "nav":
+        {
+            "register":"Kayıt Ol ",
+            "login":"Oturum Aç",
+            "lock":"Aç"
+        },
+
+        "footer":
+        {
+            "about":"Hakkımızda",
+            "license":"lisans",
+            "blog":"blog",
+            "2019":"2019",
+            "copyright":"copyright",
+            "madeBy":"ab_dev tarafından yapılmıştır"
+        },
+
+        "form":
+        {
+            "name":"ad",
+            "password":"parola",
+            "email":"e-posta",
+            "agree":"Onaylıyorum"
+        },
+        "register":
+        {
+            "marketing":"Pazarlama",
+            "coded":"HTML ile Tamamen Kodlanmış",
+            "builtaudiance":"Kitle Oluşturun",
+            "termsandconditions":"şartlar ve koşullar",
+            
+            "marketingDes":"Web sitesinin pazarlama kampanyasını oluşturduk. Çok ilginç bir işbirliğiydi.",
+            "codedDes":"Web sitesini HTML5 ve CSS3 ile geliştirdik. Müşterinin GitHub'ı kullanarak koda erişimi vardır.",
+            "builtDes":"Bu ürün için Tamamen Özelleştirilebilir CMS Yönetici Panosu da var."
+        }
+
+        
+    }
+
+    
+}
